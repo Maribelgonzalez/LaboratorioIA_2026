@@ -1,0 +1,2 @@
+# LaboratorioIA_2026
+Laboratorio de Inteligencia_Artificial
